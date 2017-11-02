@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/weekSchedule"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/week_schedule" />
+        <item
+            android:id="@+id/semesterSchedule"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/semester_schedule" />
+        <item
+            android:id="@+id/labs"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/labs" />
+        <item
+            android:id="@+id/assignments"
+            android:icon="@drawable/ic_menu_share"
+            android:title="@string/assignments" />
+    </group>
+
+    <item android:title="@string/settings">
+        <menu>
+            <item
+                android:id="@+id/accountSettings"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="@string/account" />
+            <item
+                android:id="@+id/applicationSettings"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="@string/application" />
+        </menu>
+    </item>
+
+</menu>

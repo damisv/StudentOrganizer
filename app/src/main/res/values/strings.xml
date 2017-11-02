@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">StudentOrganizer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="week_schedule">Week Schedule</string>
+    <string name="semester_schedule">Semester Schedule</string>
+    <string name="labs">Labs</string>
+    <string name="assignments">Assignments</string>
+    <string name="settings">Settings</string>
+    <string name="account">Account</string>
+    <string name="application">Application</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+</resources>
